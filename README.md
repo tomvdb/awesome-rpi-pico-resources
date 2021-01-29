@@ -12,7 +12,7 @@ Just a list of rpi pico resources for myself
 
 # Rust
 
-[https://github.com/rp-rs](Misc Repo's for Rust on Pico)
+[Misc Repo's for Rust on Pico](https://github.com/rp-rs)
 
 # Interesting Projects
 
