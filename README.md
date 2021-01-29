@@ -5,6 +5,11 @@ Just a list of rpi pico resources for myself
 [Raspberry PI Official Getting Started (Datasheets, etc)](https://www.raspberrypi.org/documentation/pico/getting-started/)\
 [C/C++ SDK Setup for Windows](https://notenoughtech.com/featured/c-c-and-micropython-sdk-for-raspberry-pi-pico-on-windows/)
 
+# PIO
+
+[Closer Look at PIO](https://www.cnx-software.com/2021/01/27/a-closer-look-at-raspberry-pi-rp2040-programmable-ios-pio/)
+
+
 # C Libraries/Code Snippets
 
 [picoLCD - HD44780 LCD Functions](https://github.com/zadi15/picoLCD)
