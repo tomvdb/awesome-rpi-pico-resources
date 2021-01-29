@@ -9,6 +9,9 @@ Just a list of rpi pico resources for myself
 
 [Closer Look at PIO](https://www.cnx-software.com/2021/01/27/a-closer-look-at-raspberry-pi-rp2040-programmable-ios-pio/)
 
+# MicroPython Libraries/Code Snippets
+
+[SSD1306](https://helloraspberrypi.blogspot.com/2021/01/raspberry-pi-pico-128x64-i2c-ssd1306.html)
 
 # C Libraries/Code Snippets
 
