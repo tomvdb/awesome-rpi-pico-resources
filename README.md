@@ -15,8 +15,9 @@ Just a list of rpi pico resources for myself
 
 # C Libraries/Code Snippets
 
-[picoLCD - HD44780 LCD Functions](https://github.com/zadi15/picoLCD)
-[Pico-Stub](https://github.com/cpwood/Pico-Stub)
+[picoLCD - HD44780 LCD Functions](https://github.com/zadi15/picoLCD)\
+[Pico-Stub](https://github.com/cpwood/Pico-Stub)\
+[Pico + ESP8266](https://www.reddit.com/r/raspberry_pi/comments/ld6ssg/giving_a_raspberry_pi_pico_internet_access_sort/)
 
 # Rust
 
