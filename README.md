@@ -4,7 +4,7 @@ Just a list of rpi pico resources :)
 
 [Raspberry PI Official Getting Started (Datasheets, etc)](https://www.raspberrypi.org/documentation/pico/getting-started/)\
 [C/C++ SDK Setup for Windows](https://notenoughtech.com/featured/c-c-and-micropython-sdk-for-raspberry-pi-pico-on-windows/)\
-[Installer for Pico C SDK Windows](https://github.com/ndabas/pico-setup-windows)\
+[Installer for Pico C SDK Windows](https://github.com/ndabas/pico-setup-windows)
 
 # PIO
 
