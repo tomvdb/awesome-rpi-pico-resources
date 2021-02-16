@@ -20,7 +20,7 @@ Just a list of rpi pico resources :)
 [Pico-Stub](https://github.com/cpwood/Pico-Stub)\
 [Pico + ESP8266](https://www.reddit.com/r/raspberry_pi/comments/ld6ssg/giving_a_raspberry_pi_pico_internet_access_sort/)\
 [picofract](https://github.com/iridis-alpha/picofract)\
-[VGA From Pico](blob:https://www.youtube.com/b085b7a8-b320-4bd7-a6f4-3fbb04952a2c)\
+[VGA From Pico](https://www.youtube.com/b085b7a8-b320-4bd7-a6f4-3fbb04952a2c)\
 [Overclocking](https://www.raspberrypi.org/forums/viewtopic.php?f=145&t=303278&p=1820119#p1820119)\
 [LoraWAN](https://lemariva.com/blog/2021/02/raspberry-pi-pico-rp2040-meets-lorawan)
 
